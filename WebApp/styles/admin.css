@@ -1,0 +1,27 @@
+.unassigned-complaints-button {
+	width: 25%;
+	margin: auto;	
+}
+
+.small-button {
+	width: 5%;
+}
+
+#first-input {
+	margin-left: 155px;
+}
+
+.dynamic-inputs {
+	margin-top: -5px;
+}
+
+.all-complaints-button {
+	width: 25%;
+	margin: auto;
+}
+
+.form-center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
